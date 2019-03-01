@@ -1,0 +1,4 @@
+Chose from the following to attack:
+[1] Strength        [3] Wisdom
+[2] Intelligence    [4] Power
+[other] Automatic Forfiet!
